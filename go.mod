@@ -6,6 +6,7 @@ require (
 	9fans.net/go v0.0.4 // indirect
 	github.com/BurntSushi/toml v1.1.0 // indirect
 	github.com/acroca/go-symbols v0.1.1 // indirect
+	github.com/andybalholm/brotli v1.0.4 // indirect
 	github.com/cilium/ebpf v0.8.1 // indirect
 	github.com/cosiner/argv v0.1.0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
@@ -14,11 +15,13 @@ require (
 	github.com/derekparker/trie v0.0.0-20200317170641-1fdf38b7b0e9 // indirect
 	github.com/go-delve/delve v1.8.3 // indirect
 	github.com/go-delve/liner v1.2.2-1 // indirect
+	github.com/gofiber/fiber/v2 v2.33.0 // indirect
 	github.com/google/go-cmp v0.5.8 // indirect
 	github.com/google/go-dap v0.6.0 // indirect
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/haya14busa/goplay v1.0.0 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
+	github.com/klauspost/compress v1.15.0 // indirect
 	github.com/konsorten/go-windows-terminal-sequences v1.0.3 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
@@ -36,6 +39,9 @@ require (
 	github.com/spf13/cobra v1.4.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/sqs/goreturns v0.0.0-20181028201513-538ac6014518 // indirect
+	github.com/valyala/bytebufferpool v1.0.0 // indirect
+	github.com/valyala/fasthttp v1.35.0 // indirect
+	github.com/valyala/tcplisten v1.0.0 // indirect
 	github.com/zmb3/gogetdoc v0.0.0-20190228002656-b37376c5da6a // indirect
 	go.starlark.net v0.0.0-20220328144851-d1966c6b9fcd // indirect
 	golang.org/x/arch v0.0.0-20220412001346-fc48f9fe4c15 // indirect
